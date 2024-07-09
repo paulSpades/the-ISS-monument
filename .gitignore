@@ -1,0 +1,40 @@
+
+# Node artifact files
+node_modules/
+dist/
+
+# Scripts
+*.ps1
+*.htaccess
+
+# Compiled Python bytecode
+*.py[cod]
+
+# Log files
+*.log
+
+# Media folders
+media/
+archive/
+
+# IDE
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Unit test reports
+TEST*.xml
+
+# OS crap
+.DS_Store
+Thumbs.db
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
