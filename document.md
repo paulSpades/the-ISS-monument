@@ -41,20 +41,17 @@ Any and all changes to this document can only be made to improve the plan for Th
 ## D. The Plan
 
 ### 1. Stop all plans involving The ISS's destruction
-
 We consider that neither the US Congress or NASA have the authority to decide the fate of The ISS after active service, following this document. We stake our claim.
 Any and all entities involved in the current plan to de-orbit The ISS must cease all operations involving their current plans. 
 If they refuse to comply with the demands put forth, they will be considered a malicious entity towards Humanity.
 
 ### 2. Official recognition
-
 The United Nations, UNESCO and other relevant international bodies must officially and publicly ratify this document as "Humanity's clear and unbiased intention to preserve The ISS" and recognise Humanity's Monument for Peaceful Cooperation in Space as a historic monument of interest for all of Humanity.
 
 If the current UN Council, or other organisations contacted, disagree or have any objections to the plan, they will only be taken into consideration in document changes as long as ALL of the demands are achieved. 
 If they disagree or seek to change any of Humanity's demands, they will be dismissed as not having the moral authority to decide on the matter of preserving and protecting The ISS, and they will be considered a malicious entity towards Humanity. 
 
 ### 3. Technical and organisation efforts for creation of The ISS Monument
-
 We elect ESA and JAXA to organize a council that debates, elaborates and puts into practice the technical plan to preserve The ISS, following its retirement from active use. 
 Humanity's current proposal is to boost The ISS to higher orbit. 
 The exact parameters, missions and funding needed to achieve preservation of The ISS Monument will be debated by this council, officially formed and delegated by the ESA and JAXA. This council entity will henceforth be referred to as "The Council". 
@@ -77,7 +74,6 @@ These three entities We consider ignorant or malicious due to their current alig
 6. The Monitoring and Maintenance Technical Team is responsible for the maintenance and security of The ISS Monument.
 
 ### 5. Funding
-
 No funding will be acquired until the official approval of the ESA and JAXA appointed council. All funding for the The ISS Monument will be directed to The Council by whatever means or financial entities are required. 
 Any and all interested entities in gathering funds must be approved by The Council as "Partners". 
 No profit making ventures can be approved by The Council, except for exclusively and directly funding The ISS Monument.
@@ -127,14 +123,12 @@ If you elect to self-exclude yourself from Us, We can only wish you good health 
 Share this document with your superiors. If this action will endanger your personal safety, employment or authority within the Group/Organization, please contact the current document maintainer (section J) for a list of persons and groups to advise you on how to proceed. 
 
 
-
 ## I. Document distribution, version and license
 
 This document is maintained as a well behaved Open Source Software Project.
 
 Document version: **Draft 1**
 Document repository: HTTPS://github.com/paulSpades/the-ISS-monument
-
 
 Official document distribution must include: 
 ### 1. Link to the document source repository which includes the currently updated document and translations 
@@ -157,7 +151,7 @@ Copyright 2024 Paul-Adrian Stoleriu
 
 ## J. Current document maintainer
 
-Paul-Adrian Stoleriu 
+Paul-Adrian Stoleriu
 email: paul.stoleriu@gmail.com
 github: HTTPS://github.com/paulSpades
 
