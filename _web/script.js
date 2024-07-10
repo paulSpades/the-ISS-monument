@@ -7,7 +7,7 @@ fetchDocBody(false, () => {
 
 
 
-  
+
 });
 
 
@@ -16,7 +16,7 @@ function fetchDocBody(lang, callback){
 
   fetch(doc)
     .then((res) => {
-      return r.text();
+      return res.text();
     })
     .then((html) => {
       document.getElementById('mainContent').innerHTML = html;
