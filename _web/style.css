@@ -1,3 +1,38 @@
+html, document, *{
+	box-sizing: border-box;
+}
 body{
-	font-family: Helvetica, sans-serif;
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-size: 21px;
+	line-height: 1.4em;
+	position: relative;
+	color: #222;
+}
+
+h1, h2, h3, h4 {
+	font-weight: 400;
+	margin-top: 0;
+	padding-top: 1.2em;
+	line-height: 1.2em;
+}
+
+a{
+	text-decoration: none; 
+	display: inline-block; 
+	padding: 0 .2rem;
+	font-size: 21px;
+	color: #235;
+}
+	a.active{font-weight: bold;}
+	a:hover, a:active, a:focus{
+		color: #012;
+	}
+
+#mainContent{
+	margin: 1em auto;
+	max-width: 45em;
+}
+
+#mainContent p, ul, ol{
+	margin: .7em 0 .7em 0;
 }
